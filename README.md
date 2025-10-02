@@ -32,4 +32,5 @@ coming soon
 
 ## 📂 Project Structure
 │── main.py # Main project file
+<br>
 │── README.md # Documentation
