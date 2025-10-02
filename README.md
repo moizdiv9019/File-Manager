@@ -1,6 +1,11 @@
 # File-Manager
 🖥️ Console-based  File-Manager
 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 A simple **File Manager Project** built using Python.  
 This project allows you to **create, read, update, and delete files** directly from the console.  
 
